@@ -22,6 +22,8 @@ public class Program
         Console.WriteLine("9. Delete account");
         Console.WriteLine("0. Exit");
 
+        Console.WriteLine("This line was added by John");
+
         bool running = true;
         while (running)
         {
