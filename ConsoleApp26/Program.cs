@@ -19,6 +19,7 @@ public class Program
         Console.WriteLine("6. Enroll Student");
         Console.WriteLine("7. UnEnroll Student");
         Console.WriteLine("8. View Course");
+        Console.WriteLine("9. Delete account");
         Console.WriteLine("0. Exit");
 
         bool running = true;
